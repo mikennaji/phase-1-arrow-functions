@@ -1,4 +1,4 @@
-const divide = (x=2000, y =100) => x/y;
+const divide = () => 2000/100;
 
 const square = (number) => number * number;
 
